@@ -3,4 +3,5 @@ pandas
 selenium
 beautifulsoup4
 openpyxl
+xlrd
 webdriver-manager
